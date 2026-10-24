@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UltraLite Launcher</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="default_home_app">Default home app</string>
+    <string name="action_unavailable">Not available on this device</string>
+</resources>
